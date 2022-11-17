@@ -22,7 +22,7 @@
 }
 
 body {
-    background-image: linear-gradient(rgba(236, 203, 131, 0.3), rgba(236, 203, 131, 0.3)), url(/images/jeuDe.jpg);
+    background-image: linear-gradient(rgba(236, 203, 131, 0.3), rgba(236, 203, 131, 0.3)), url(images/jeuDe.jpg);
     background-size: cover;
     background-position: center;
     font-family: Lato, sans-serif;
